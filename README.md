@@ -8,3 +8,8 @@ Have the function NumberEncoding(str) take the str parameter and encode the mess
 
 > Input: "jaj-a"
 > Output: 10110-1
+
+# Code Coverage
+Click the link below to view the Code Coverage
+
+<a href="https://htmlpreview.github.io/?https://github.com/toniolatunji/number-encoding/blob/main/NumberEncoding/NumberEncoding.Tests/Coverage/index.html" target="_blank">Code Coverage</a>
