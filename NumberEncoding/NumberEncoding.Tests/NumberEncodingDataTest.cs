@@ -2,7 +2,7 @@
 using NumberEncoding.Data.Implementation;
 using NUnit.Framework;
 
-namespace NumberEncoding.Data.Tests
+namespace NumberEncoding.Tests
 {
     public class NumberEncodingDataTest
     {

@@ -4,7 +4,7 @@ using NumberEncoding.Service.Contract;
 using NumberEncoding.Service.Implementation;
 using NUnit.Framework;
 
-namespace NumberEncoding.Service.Tests
+namespace NumberEncoding.Tests
 {
     public class NumberEncodingServiceTest
     {

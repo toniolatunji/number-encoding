@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="50898e6d-c08b-43ff-b416-85a62e94f117" name="olatu@OOLATUNJI 2021-10-16 23:59:34" runUser="OOLATUNJI\olatu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-10-16T23:59:34.1636236+01:00" queuing="2021-10-16T23:59:34.1636259+01:00" start="2021-10-16T23:59:28.6809524+01:00" finish="2021-10-16T23:59:34.2473986+01:00" />
+  <TestSettings name="default" id="ff65d54f-23a3-47fe-a00d-cd1be96c18e7">
+    <Deployment runDeploymentRoot="olatu_OOLATUNJI_2021-10-16_23_59_34" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="beea21d3-4594-46f0-9d0a-1a8f2e8d05fd" testId="46b7465e-fa2b-d5ab-eee1-f29c105120ce" testName="GetAlphabets_Returns_26Characters" computerName="OOLATUNJI" duration="00:00:00.6641480" startTime="2021-10-16T23:59:32.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="beea21d3-4594-46f0-9d0a-1a8f2e8d05fd" />
+    <UnitTestResult executionId="0a507f79-6142-4b14-a2db-795a55c875cd" testId="0addf17e-b4f5-5b0b-85b5-05713b9e84e3" testName="NumberEncoding_Returns_CorrectEncodingValue(&quot;jaj-a&quot;)" computerName="OOLATUNJI" duration="00:00:00.0016000" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a507f79-6142-4b14-a2db-795a55c875cd" />
+    <UnitTestResult executionId="d4eeded5-f8a6-4ae2-b1b8-72e08ac3f1e2" testId="341fed71-a36b-7ce1-9561-a91ba9ee337a" testName="GetCharacterPosition_Returns_CharactersInTheRightPosition('j')" computerName="OOLATUNJI" duration="00:00:00.0002010" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4eeded5-f8a6-4ae2-b1b8-72e08ac3f1e2" />
+    <UnitTestResult executionId="0e18e4a7-3007-4b3b-a99c-5057545b5867" testId="b1333769-687a-2026-20ee-aad7ea0bb0d4" testName="GetCharacterPosition_Returns_CharactersInTheRightPosition('a')" computerName="OOLATUNJI" duration="00:00:00.0027470" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e18e4a7-3007-4b3b-a99c-5057545b5867" />
+    <UnitTestResult executionId="4c0f1a90-7708-425f-8036-e5c0f6dec4ed" testId="2bc29dfb-12da-886d-d106-81f365ad4ab4" testName="GetCharacterPosition_Returns_CharactersInTheRightPosition('q')" computerName="OOLATUNJI" duration="00:00:00.0001170" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c0f1a90-7708-425f-8036-e5c0f6dec4ed" />
+    <UnitTestResult executionId="92c5c693-d85c-4e04-bcb3-643e2713374f" testId="b5af7998-babc-4037-3db8-eb07cd294e48" testName="GetCharacterPosition_Returns_CharactersInTheRightPosition('p')" computerName="OOLATUNJI" duration="00:00:00.0001150" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92c5c693-d85c-4e04-bcb3-643e2713374f" />
+    <UnitTestResult executionId="21c80868-9762-4c2a-89d8-a421e1e14d5f" testId="082609ea-8ec2-359c-825e-59ed78ca6453" testName="GetCharacterPosition_Returns_CharactersInTheRightPosition('f')" computerName="OOLATUNJI" duration="00:00:00.0001230" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="21c80868-9762-4c2a-89d8-a421e1e14d5f" />
+    <UnitTestResult executionId="c1bcc7f4-f762-491b-a318-fac5df2639b5" testId="74be466d-d22a-8945-5c0c-ab188838e204" testName="NumberEncoding_Returns_CorrectEncodingValue(&quot;hello 45&quot;)" computerName="OOLATUNJI" duration="00:00:00.6406390" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1bcc7f4-f762-491b-a318-fac5df2639b5" />
+    <UnitTestResult executionId="8d1c7b65-1036-46e2-b4d4-08457e9fe067" testId="d953eecd-a84a-276c-1ddf-73a624c2b19e" testName="GetCharacterPosition_Returns_CharactersInTheRightPosition('v')" computerName="OOLATUNJI" duration="00:00:00.0001150" startTime="2021-10-16T23:59:33.0000000+01:00" endTime="2021-10-16T23:59:33.0000000+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8d1c7b65-1036-46e2-b4d4-08457e9fe067" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="GetCharacterPosition_Returns_CharactersInTheRightPosition('f')" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="082609ea-8ec2-359c-825e-59ed78ca6453">
+      <Execution id="21c80868-9762-4c2a-89d8-a421e1e14d5f" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetCharacterPosition_Returns_CharactersInTheRightPosition('f')" />
+    </UnitTest>
+    <UnitTest name="GetCharacterPosition_Returns_CharactersInTheRightPosition('v')" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="d953eecd-a84a-276c-1ddf-73a624c2b19e">
+      <Execution id="8d1c7b65-1036-46e2-b4d4-08457e9fe067" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetCharacterPosition_Returns_CharactersInTheRightPosition('v')" />
+    </UnitTest>
+    <UnitTest name="GetCharacterPosition_Returns_CharactersInTheRightPosition('q')" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="2bc29dfb-12da-886d-d106-81f365ad4ab4">
+      <Execution id="4c0f1a90-7708-425f-8036-e5c0f6dec4ed" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetCharacterPosition_Returns_CharactersInTheRightPosition('q')" />
+    </UnitTest>
+    <UnitTest name="GetCharacterPosition_Returns_CharactersInTheRightPosition('a')" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="b1333769-687a-2026-20ee-aad7ea0bb0d4">
+      <Execution id="0e18e4a7-3007-4b3b-a99c-5057545b5867" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetCharacterPosition_Returns_CharactersInTheRightPosition('a')" />
+    </UnitTest>
+    <UnitTest name="NumberEncoding_Returns_CorrectEncodingValue(&quot;jaj-a&quot;)" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="0addf17e-b4f5-5b0b-85b5-05713b9e84e3">
+      <Execution id="0a507f79-6142-4b14-a2db-795a55c875cd" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingServiceTest" name="NumberEncoding_Returns_CorrectEncodingValue(&quot;jaj-a&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetAlphabets_Returns_26Characters" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="46b7465e-fa2b-d5ab-eee1-f29c105120ce">
+      <Execution id="beea21d3-4594-46f0-9d0a-1a8f2e8d05fd" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetAlphabets_Returns_26Characters" />
+    </UnitTest>
+    <UnitTest name="NumberEncoding_Returns_CorrectEncodingValue(&quot;hello 45&quot;)" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="74be466d-d22a-8945-5c0c-ab188838e204">
+      <Execution id="c1bcc7f4-f762-491b-a318-fac5df2639b5" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingServiceTest" name="NumberEncoding_Returns_CorrectEncodingValue(&quot;hello 45&quot;)" />
+    </UnitTest>
+    <UnitTest name="GetCharacterPosition_Returns_CharactersInTheRightPosition('j')" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="341fed71-a36b-7ce1-9561-a91ba9ee337a">
+      <Execution id="d4eeded5-f8a6-4ae2-b1b8-72e08ac3f1e2" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetCharacterPosition_Returns_CharactersInTheRightPosition('j')" />
+    </UnitTest>
+    <UnitTest name="GetCharacterPosition_Returns_CharactersInTheRightPosition('p')" storage="c:\users\olatu\projects\demo\awsm\number-encoding\numberencoding\numberencoding.tests\bin\debug\net5.0\numberencoding.tests.dll" id="b5af7998-babc-4037-3db8-eb07cd294e48">
+      <Execution id="92c5c693-d85c-4e04-bcb3-643e2713374f" />
+      <TestMethod codeBase="C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="NumberEncoding.Tests.NumberEncodingDataTest" name="GetCharacterPosition_Returns_CharactersInTheRightPosition('p')" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="46b7465e-fa2b-d5ab-eee1-f29c105120ce" executionId="beea21d3-4594-46f0-9d0a-1a8f2e8d05fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0addf17e-b4f5-5b0b-85b5-05713b9e84e3" executionId="0a507f79-6142-4b14-a2db-795a55c875cd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="341fed71-a36b-7ce1-9561-a91ba9ee337a" executionId="d4eeded5-f8a6-4ae2-b1b8-72e08ac3f1e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b1333769-687a-2026-20ee-aad7ea0bb0d4" executionId="0e18e4a7-3007-4b3b-a99c-5057545b5867" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2bc29dfb-12da-886d-d106-81f365ad4ab4" executionId="4c0f1a90-7708-425f-8036-e5c0f6dec4ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5af7998-babc-4037-3db8-eb07cd294e48" executionId="92c5c693-d85c-4e04-bcb3-643e2713374f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="082609ea-8ec2-359c-825e-59ed78ca6453" executionId="21c80868-9762-4c2a-89d8-a421e1e14d5f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74be466d-d22a-8945-5c0c-ab188838e204" executionId="c1bcc7f4-f762-491b-a318-fac5df2639b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d953eecd-a84a-276c-1ddf-73a624c2b19e" executionId="8d1c7b65-1036-46e2-b4d4-08457e9fe067" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in C:\Users\olatu\Projects\demo\AWSM\number-encoding\NumberEncoding\NumberEncoding.Tests\bin\Debug\net5.0\NumberEncoding.Tests.dll&#xD;
+   NUnit3TestExecutor converted 9 of 9 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
